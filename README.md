@@ -2,7 +2,7 @@
 
 
 
-This system allows all registered users to vote for their favorite PROGRAMMING LANGUAGE.
+This system allows all registered users to vote for their favorite Political Party.
 In order to make a vote you have to register first and then login.
 
 
